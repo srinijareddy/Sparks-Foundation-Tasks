@@ -33,6 +33,7 @@ to > View all Customers.
 between multiple customers .
 ◇ Upload video demo of your application on youtube and
 submit the url.
+https://github.com/srinijareddy/Basic-Banking-App
 
 
 # Task-3 : Payment Gateway Integration
@@ -66,6 +67,8 @@ AWS or Azure.
 ◇ Submit the URL of the application which is running on EC2.
 ◇ Your video should show that you are able to run applications
 on cloud.
+required applications to download :
+putty,putty gen=>https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
 
 # Task-5 : Social Media Integration
@@ -80,6 +83,7 @@ for mobiles as well as tablets.
 ◇ Clean code is a must.
 ◇ Upload video demo of your application on youtube and
 submit the url.
+https://github.com/srinijareddy/Social_media_Login
 
 
 # Task-6 : Testing (Automated)
@@ -91,5 +95,6 @@ learn about various aspects of testing using selenium.
 thesparksfoundation.sg
 ◇ The test script should check of at least 5 pages and 10
 elements in total.
+https://github.com/srinijareddy/SparksFoundationAutomateTesting
 ◇ Each element could be e.g. if the Logo exists, the navigation
 bar appears, the name on about us page is correct, etc.
