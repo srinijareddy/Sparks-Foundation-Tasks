@@ -17,6 +17,7 @@ View all Customers .
 between multiple users.
 ◇ Host the website at 000webhost, github.io, heroku app or any
 other free hosting provider. Check in code in gitlab..
+https://in.000webhost.com/members/website/list
 
 
 # Task-2 : Basic Banking App
@@ -48,6 +49,7 @@ invoice will contain the amount.
 party for integrations.
 ◇ Host the website at 000webhost, github.io, heroku app or any
 other free hosting provider. Check in code in gitlab.
+https://paymentgatewayintegration1.000webhostapp.com/
 
 
 # Task-4 : CI/CD: Cloud Computing)
